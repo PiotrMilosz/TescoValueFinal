@@ -1,0 +1,14 @@
+13:26:28.670 INFO - Menu is displayed correctly.
+13:26:29.484 INFO - Close button was clicked.
+13:26:30.057 INFO - Menu button was clicked.
+13:26:31.597 INFO - EZakupy button was clicked.
+13:26:38.381 INFO - https://ezakupy.tesco.pl/groceries/pl-PL/?_ga=2.214691927.1179345567.1516883194-1621293423.1516883194
+13:26:41.820 INFO - Close cookie button was clicked
+13:26:43.122 INFO - Zacznij zakupy button was clicked
+13:26:46.361 INFO - Search Item podane
+13:26:48.050 INFO - Search klikni?te
+13:26:58.790 INFO - Search Item podane
+13:27:00.178 INFO - Search klikni?te
+13:27:04.393 INFO - Search Item podane
+13:27:05.381 INFO - Search klikni?te
+13:27:20.546 INFO - Wynik to null w cenie 10000.0 zl BIEREJ!!

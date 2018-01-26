@@ -1,0 +1,8 @@
+10:36:08.209 INFO - Menu is displayed correctly.
+10:36:09.046 INFO - Close button was clicked.
+10:36:09.507 INFO - Menu button was clicked.
+10:36:10.919 INFO - EZakupy button was clicked.
+10:36:19.534 INFO - https://ezakupy.tesco.pl/groceries/pl-PL/?_ga=2.190872493.601268818.1516872970-349256580.1516872970
+10:36:20.783 INFO - Close cookie button was clicked
+10:36:22.308 INFO - Zacznij zakupy button was clicked
+10:36:24.222 INFO - Nabia? i jaja selected

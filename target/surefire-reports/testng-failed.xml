@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TescoValueVer3.TescoButter.Tests]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="TescoValueVer3.TescoButter.Tests">
+        <methods>
+          <include name="afterTest"/>
+          <include name="cheapestOne"/>
+          <include name="createAppiumDriver"/>
+        </methods>
+      </class> <!-- TescoValueVer3.TescoButter.Tests -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [TescoValueVer3.TescoButter.Tests] -->

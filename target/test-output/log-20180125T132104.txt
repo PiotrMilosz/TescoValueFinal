@@ -1,0 +1,10 @@
+13:21:16.483 INFO - Menu is displayed correctly.
+13:21:17.283 INFO - Close button was clicked.
+13:21:17.833 INFO - Menu button was clicked.
+13:21:19.288 INFO - EZakupy button was clicked.
+13:21:22.379 INFO - https://ezakupy.tesco.pl/groceries/pl-PL/?_ga=2.130309709.393502302.1516882881-489561323.1516882881
+13:21:29.056 INFO - Close cookie button was clicked
+13:21:30.471 INFO - Zacznij zakupy button was clicked
+13:21:32.946 INFO - Search Item podane
+13:21:34.498 INFO - Search klikni?te
+13:22:08.422 INFO - Wynik to Tesco Loves Baby Ultra Dry Pieluszki Jednorazowe 2 Mini 3-6 Kg 78 Sztuk w cenie 0.27 zl BIEREJ!!

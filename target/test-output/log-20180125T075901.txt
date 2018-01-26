@@ -1,0 +1,2 @@
+07:59:15.117 INFO - Menu is displayed correctly.
+07:59:15.192 INFO - https://tesco.pl/

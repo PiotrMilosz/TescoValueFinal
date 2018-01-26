@@ -1,0 +1,5 @@
+07:47:15.740 INFO - Menu is displayed correctly.
+07:47:16.472 INFO - Close button was clicked.
+07:47:17.041 INFO - Menu button was clicked.
+07:47:18.478 INFO - EZakupy button was clicked.
+07:47:18.778 INFO - https://tesco.pl/

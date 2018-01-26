@@ -1,0 +1,13 @@
+13:32:23.960 INFO - Menu is displayed correctly.
+13:32:24.855 INFO - Close button was clicked.
+13:32:25.392 INFO - Menu button was clicked.
+13:32:26.977 INFO - EZakupy button was clicked.
+13:32:34.094 INFO - https://ezakupy.tesco.pl/groceries/pl-PL/?_ga=2.33012158.1878808289.1516883548-1995446556.1516883548
+13:32:36.582 INFO - Close cookie button was clicked
+13:32:38.084 INFO - Zacznij zakupy button was clicked
+13:32:41.504 INFO - Search Item podane
+13:32:43.240 INFO - Search klikni?te
+13:33:16.849 INFO - Wynik to Pampers Fresh Clean Chusteczki Dla Niemowl?t 6 X 64 Sztuki w cenie 0.09 zl BIEREJ!!
+13:33:22.207 INFO - Search Item podane
+13:33:23.717 INFO - Search klikni?te
+13:33:54.463 INFO - Wynik to Tesco Sok 100% Jab?kowy Z Zag?szczonego Soku 2 L w cenie 1.9 zl BIEREJ!!

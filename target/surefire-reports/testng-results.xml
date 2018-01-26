@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TescoValueVer3.TescoButter.Tests" duration-ms="156387" started-at="2018-01-26T07:22:31Z" finished-at="2018-01-26T07:25:07Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="156387" started-at="2018-01-26T07:22:31Z" finished-at="2018-01-26T07:25:07Z">
+      <class name="TescoValueVer3.TescoButter.Tests">
+        <test-method status="PASS" signature="createAppiumDriver()[pri:0, instance:TescoValueVer3.TescoButter.Tests@64616ca2]" name="createAppiumDriver" is-config="true" duration-ms="19130" started-at="2018-01-26T08:22:31Z" finished-at="2018-01-26T08:22:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAppiumDriver -->
+        <test-method status="PASS" signature="s1_goTest()[pri:0, instance:TescoValueVer3.TescoButter.Tests@64616ca2]" name="s1_goTest" duration-ms="40980" started-at="2018-01-26T08:22:50Z" description="Przejście na portal eZakupy z Tesco.pl" finished-at="2018-01-26T08:23:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s1_goTest -->
+        <test-method status="PASS" signature="s2_goButterDepartement()[pri:0, instance:TescoValueVer3.TescoButter.Tests@64616ca2]" name="s2_goButterDepartement" duration-ms="52200" started-at="2018-01-26T08:23:31Z" description="Wyszukiwanie pieluszki" finished-at="2018-01-26T08:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s2_goButterDepartement -->
+        <test-method status="PASS" signature="cheapestOne()[pri:0, instance:TescoValueVer3.TescoButter.Tests@64616ca2]" name="cheapestOne" duration-ms="41330" started-at="2018-01-26T08:24:23Z" description="Wyszukiwanie sok" finished-at="2018-01-26T08:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cheapestOne -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TescoValueVer3.TescoButter.Tests@64616ca2]" name="afterTest" is-config="true" duration-ms="2738" started-at="2018-01-26T08:25:04Z" finished-at="2018-01-26T08:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TescoValueVer3.TescoButter.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TescoValueVer3.TescoButter.Tests -->
+</testng-results>

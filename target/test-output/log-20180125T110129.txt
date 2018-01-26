@@ -1,0 +1,4 @@
+11:01:42.904 INFO - Menu is displayed correctly.
+11:01:43.639 INFO - Close button was clicked.
+11:01:44.193 INFO - Menu button was clicked.
+11:01:45.672 INFO - EZakupy button was clicked.

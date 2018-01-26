@@ -1,0 +1,5 @@
+14:53:30.742 INFO - Menu is displayed correctly.
+14:53:31.412 INFO - Close button was clicked.
+14:53:31.941 INFO - Menu button was clicked.
+14:53:33.362 INFO - EZakupy button was clicked.
+14:53:33.616 INFO - https://tesco.pl/

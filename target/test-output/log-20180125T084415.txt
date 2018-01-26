@@ -1,0 +1,7 @@
+08:44:38.526 INFO - Menu is displayed correctly.
+08:44:39.375 INFO - Close button was clicked.
+08:44:40.044 INFO - Menu button was clicked.
+08:44:41.506 INFO - EZakupy button was clicked.
+08:44:49.438 INFO - https://ezakupy.tesco.pl/groceries/pl-PL/?_ga=2.170373795.2050963397.1516866277-1680988506.1516866277
+08:44:50.887 INFO - Close cookie button was clicked
+08:44:52.762 INFO - Zacznij zakupy button was clicked

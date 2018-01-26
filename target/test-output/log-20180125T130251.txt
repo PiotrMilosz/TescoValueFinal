@@ -1,0 +1,12 @@
+13:03:07.850 INFO - Menu is displayed correctly.
+13:03:08.838 INFO - Close button was clicked.
+13:03:09.372 INFO - Menu button was clicked.
+13:03:10.847 INFO - EZakupy button was clicked.
+13:03:17.899 INFO - https://ezakupy.tesco.pl/groceries/pl-PL/?_ga=2.153191355.2045489084.1516881788-610850640.1516881788
+13:03:21.360 INFO - Close cookie button was clicked
+13:03:22.806 INFO - Zacznij zakupy button was clicked
+13:03:25.518 INFO - Search Item podane
+13:03:27.223 INFO - Search klikni?te
+13:03:55.275 INFO - Wynik to Tesco Extra Classic Margaryna Pó?t?usta 500 G
+Inne produkty z tej kategorii
+Pozosta?e produkty z kategorii Mixy, t?uszcze, smalec w cenie 5.38 zl BIEREJ!!
